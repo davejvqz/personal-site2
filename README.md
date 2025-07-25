@@ -18,5 +18,3 @@ The Fullstack Developer Path aims to teach you everything you need to become a J
 
 Happy Coding!# red-personal-site
 # personal-site2
-# personal-site2
-# personal-site2
